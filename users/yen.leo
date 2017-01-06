@@ -69,7 +69,7 @@
 <v t="amd.20161004112026.1" a="E"><vh>電腦輔助設計課程內涵</vh>
 <v t="amd.20161004112026.2"><vh>CAD 教學主題</vh></v>
 </v>
-<v t="leo.20161013152737.1"><vh>Github pages 網頁</vh>
+<v t="leo.20161013152737.1" a="E"><vh>Github pages 網頁</vh>
 <v t="leo.20161013152737.2"><vh>各學員任務</vh></v>
 </v>
 <v t="leo.20161013185220.1"><vh>所有操作都必須拍影片</vh>
@@ -81,7 +81,7 @@
 <v t="leo.20161027151655.1" a="E"><vh>Solvespace 四連桿模擬</vh>
 <v t="leo.20161027151655.2"><vh>Solvespace 模擬</vh></v>
 </v>
-<v t="leo.20161013185845.1"><vh>OnShape 操作練習</vh>
+<v t="leo.20161013185845.1" a="E"><vh>OnShape 操作練習</vh>
 <v t="leo.20161013185845.2"><vh>OnShape 實習</vh></v>
 </v>
 <v t="yen.20161016203728.1"><vh>Nutcracker 操作練習</vh>
@@ -554,8 +554,10 @@ DEFAULT_DATE = 'fs'</t>
 各學員必須完成
 
   * 個人網頁
+  https://github.com/40223233
   * Solvespace 零組件繪圖與機構模擬
   * OnShape 零組件繪圖與機構模擬
+  https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc&amp;viewMode=0
   * Delta 3D printer 零組件繪圖與模擬
   * 利用 Delta 3D printer 列印零組件並組立
   * 建立網際自評系統
