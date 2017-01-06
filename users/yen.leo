@@ -14,7 +14,7 @@
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
-<v t="amd.20160106095324.1"><vh>@path ./../</vh>
+<v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
 <v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
@@ -670,7 +670,9 @@ make.start()
 <t tx="leo.20161013185845.2">## OnShape 實習
 
   * OnShape 零件繪製
+  https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc&amp;viewMode=0
   * OnShape 零件組立
+  https://cad.onshape.com/documents/f723dfa2e7d650d3c8d16304/w/7ae4d158c2e340b2b1c0e43c/e/e8d9ea50e2cb1fdf85595f27
   * Delta 3D Printer 機構模擬
   * 平面四連桿機構模擬與驗證
   * 平面多連桿機構模擬與驗證
@@ -717,7 +719,7 @@ make.start()
 </t>
 <t tx="leo.20161027151655.2">## Solvespace 四連桿模擬
 
-&lt;img src="w7/cadp_w7_fourbar.png" width= "800" /&gt;
+&lt;img src="theme/cadp_w7_fourbar.png" width= "800" /&gt;
 </t>
 <t tx="leo.20170106110029.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
