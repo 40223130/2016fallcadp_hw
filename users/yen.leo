@@ -14,7 +14,7 @@
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
-<v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
+<v t="amd.20160106095324.1"><vh>@path ./../</vh>
 <v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
@@ -78,7 +78,7 @@
 <v t="leo.20161013185610.1"><vh>Solvespace 操作練習</vh>
 <v t="leo.20161013185610.2"><vh>Solvespace 實習</vh></v>
 </v>
-<v t="leo.20161027151655.1" a="E"><vh>Solvespace 四連桿模擬</vh>
+<v t="leo.20161027151655.1"><vh>Solvespace 四連桿模擬</vh>
 <v t="leo.20161027151655.2"><vh>Solvespace 模擬</vh></v>
 </v>
 <v t="leo.20161013185845.1"><vh>OnShape 操作練習</vh>
@@ -87,11 +87,12 @@
 <v t="yen.20161016203728.1"><vh>Nutcracker 操作練習</vh>
 <v t="yen.20161016203728.2"><vh>OnShape 實習</vh></v>
 </v>
-<v t="yen.20161016204452.1"><vh>Delta Printer 組裝</vh></v>
+<v t="leo.20170106110029.1"><vh>Delta Printer 組裝</vh>
+<v t="leo.20170106110029.2"><vh>機電資產品的設計考量</vh></v>
+</v>
 <v t="leo.20161013190024.1"><vh>網際自評系統</vh>
 <v t="leo.20161013190024.2"><vh>Flask 網際程式</vh></v>
 </v>
-<v t="yen.20161016204452.2"><vh>機電資產品的設計考量</vh></v>
 </v>
 <v t="yen.20161016024407.1"><vh>協同力訓練</vh>
 <v t="yen.20161016024407.2" a="E"><vh>Github 帳號</vh>
@@ -135,11 +136,9 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="leo.20170106104451.1"><vh>@edit 20161027.md</vh></v>
-<v t="leo.20170106104406.1"><vh>@edit 20161230.md</vh></v>
+<v t="leo.20170106110224.1"><vh>@edit 20161230.md</vh></v>
+<v t="leo.20170106110149.1"><vh>@edit 20161027.md</vh></v>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
-<v t="yen.20161022120807.1"><vh>@edit 20161022.md</vh></v>
-<v t="leo.20161027150608.1"><vh>@edit mynum_20161027.md</vh></v>
 </v>
 </v>
 </v>
@@ -720,6 +719,23 @@ make.start()
 
 &lt;img src="w7/cadp_w7_fourbar.png" width= "800" /&gt;
 </t>
+<t tx="leo.20170106110029.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106110029.2">## 機電資產品的設計考量
+
+  * 請收集與 Delta 3D printer 有關的資料
+  * 請設法利用 CAD 套件完成零組件繪製與模擬
+  * 上述模擬過程對於產品的開發有何用意?
+  * 請討論如何完成一台可以正常列印的 Delta Printer？
+
+</t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -858,23 +874,6 @@ make.start()
   * 請完成零件繪製教學影片(語音或字幕說明)並上傳到 Vimeo 與 Youtube
   * 若採用 Solvespace, 可否完成上述相同零組件繪製與組立?
   * 如何精確得知機構運動過程的約束位置?
-</t>
-<t tx="yen.20161016204452.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161016204452.2">## 機電資產品的設計考量
-
-  * 請收集與 Delta 3D printer 有關的資料
-  * 請設法利用 CAD 套件完成零組件繪製與模擬
-  * 上述模擬過程對於產品的開發有何用意?
-  * 請討論如何完成一台可以正常列印的 Delta Printer？
-
 </t>
 <t tx="yen.20161022120729.1">@language python
 import os
