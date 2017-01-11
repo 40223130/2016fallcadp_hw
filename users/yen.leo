@@ -824,7 +824,7 @@ make.start()
 <t tx="yen.20161016024451.3"># 電腦輔助設計實習課程規劃
 
 ## [課程規劃](https://github.com/mdecourse/2016fallcadp/blob/master/syllabus.py)
-## [課程 Wiki](https://github.com/mdecourse/2016fallcadp/wiki)
+## [課程 Wiki](https://github.com/40223130/2016fallcadp_hw/wiki)
 ## [課程網誌](https://40223130.github.io/2016fallcadp_hw/blog/index.html)
 
 </t>
