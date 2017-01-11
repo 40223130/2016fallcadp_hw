@@ -75,7 +75,7 @@
 <v t="leo.20161013185220.1"><vh>所有操作都必須拍影片</vh>
 <v t="leo.20161013185220.2"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20161013185610.1"><vh>Solvespace 操作練習</vh>
+<v t="leo.20161013185610.1" a="E"><vh>Solvespace 操作練習</vh>
 <v t="leo.20161013185610.2"><vh>Solvespace 實習</vh></v>
 </v>
 <v t="leo.20161027151655.1" a="E"><vh>Solvespace 四連桿模擬</vh>
@@ -138,7 +138,7 @@
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="leo.20170106110224.1"><vh>@edit 20161230.md</vh></v>
 <v t="leo.20170106110149.1"><vh>@edit 20161027.md</vh></v>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="leo.20170111092516.1"><vh>@edit 20160921.md</vh></v>
 </v>
 </v>
 </v>
@@ -553,11 +553,11 @@ DEFAULT_DATE = 'fs'</t>
 
 各學員必須完成
 
-  * 個人網頁
-  https://github.com/40223130
+  * [個人網頁]
+  (https://github.com/40223130)
   * Solvespace 零組件繪圖與機構模擬
-  * OnShape 零組件繪圖與機構模擬
-  https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc&amp;viewMode=0
+  * [OnShape 零組件繪圖與機構模擬]
+  (https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc&amp;viewMode=0)
   * Delta 3D printer 零組件繪圖與模擬
   * 利用 Delta 3D printer 列印零組件並組立
   * 建立網際自評系統
@@ -671,10 +671,10 @@ make.start()
 </t>
 <t tx="leo.20161013185845.2">## OnShape 實習
 
-  * OnShape 零件繪製
-  https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc&amp;viewMode=0
-  * OnShape 零件組立
-  https://cad.onshape.com/documents/f723dfa2e7d650d3c8d16304/w/7ae4d158c2e340b2b1c0e43c/e/e8d9ea50e2cb1fdf85595f27
+  * [OnShape 零件繪製]
+  (https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc&amp;viewMode=0)
+  * [OnShape 零件組立]
+  (https://cad.onshape.com/documents/f723dfa2e7d650d3c8d16304/w/7ae4d158c2e340b2b1c0e43c/e/e8d9ea50e2cb1fdf85595f27)
   * Delta 3D Printer 機構模擬
   * 平面四連桿機構模擬與驗證
   * 平面多連桿機構模擬與驗證
