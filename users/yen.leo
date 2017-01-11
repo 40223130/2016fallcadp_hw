@@ -54,7 +54,7 @@
 <v t="leo.20161013151511.15"><vh>高效執行力</vh></v>
 </v>
 </v>
-<v t="yen.20161016024451.1"><vh>CADP 課程倉儲</vh>
+<v t="yen.20161016024451.1" a="E"><vh>CADP 課程倉儲</vh>
 <v t="yen.20161016024451.2" a="E"><vh>課程時段與規劃</vh>
 <v t="yen.20161016024451.3"><vh>規劃、Wiki 與網誌</vh></v>
 </v>
@@ -554,7 +554,7 @@ DEFAULT_DATE = 'fs'</t>
 各學員必須完成
 
   * 個人網頁
-  https://github.com/40223233
+  https://github.com/40223130
   * Solvespace 零組件繪圖與機構模擬
   * OnShape 零組件繪圖與機構模擬
   https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc&amp;viewMode=0
@@ -825,7 +825,7 @@ make.start()
 
 ## [課程規劃](https://github.com/mdecourse/2016fallcadp/blob/master/syllabus.py)
 ## [課程 Wiki](https://github.com/mdecourse/2016fallcadp/wiki)
-## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcadp.html)
+## [課程網誌](https://40223130.github.io/2016fallcadp_hw/blog/index.html)
 
 </t>
 <t tx="yen.20161016024451.4">&lt;section data-markdown&gt;
