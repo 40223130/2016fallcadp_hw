@@ -553,11 +553,9 @@ DEFAULT_DATE = 'fs'</t>
 
 各學員必須完成
 
-  * [個人網頁]
-  (https://github.com/40223130)
+  * [個人網頁](https://github.com/40223130)
   * Solvespace 零組件繪圖與機構模擬
-  * [OnShape 零組件繪圖與機構模擬]
-  (https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc&amp;viewMode=0)
+  * [OnShape 零組件繪圖與機構模擬](https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc&amp;viewMode=0)
   * Delta 3D printer 零組件繪圖與模擬
   * 利用 Delta 3D printer 列印零組件並組立
   * 建立網際自評系統
