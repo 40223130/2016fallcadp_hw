@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-18T22:22:00+08:00</updated><entry><title>SolveSpace</title><link href="./solvespace.html" rel="alternate"></link><published>2017-01-18T22:22:00+08:00</published><updated>2017-01-18T22:22:00+08:00</updated><author><name>40223130</name></author><id>tag:,2017-01-18:./solvespace.html</id><summary type="html">&lt;h2&gt;SolveSpace 2D&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-18T23:36:00+08:00</updated><entry><title>2016Fall 電腦輔助設計實習課程總結</title><link href="./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><published>2017-01-18T23:36:00+08:00</published><updated>2017-01-18T23:36:00+08:00</updated><author><name>40223130</name></author><id>tag:,2017-01-18:./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html">&lt;p&gt;在課程剛開始的時候因為對之前的上課內容還有印象，所以在課堂上很快就能推送成功，但是在期中遇到一些問題沒有在課堂上解決後漸漸地跟不上。上課的時候都有試著畫過Onshape跟SolveSpace並在期末補上影片，在最後一個禮拜突然發現近端執行的網誌是空的
+&lt;img src="./../theme/16145151_1352994728057378_325179208_o.png" width="600" /&gt;
+後來發現每次近端執行後blog裡面不會跑出每一篇網誌的對應頁面
+&lt;img src="./../theme/2017-01-18_23-33-10.png" width="600" /&gt;
+雖然網誌都打好了可是深怕直接上傳會毀了之前的進度所以不敢上傳，直到後來把整個程式全部翻新才有所改善。雖然到最後還是不知道怎麼回事，不過發現的時候已經超過時限了，但在此還是盡量補上。
+&lt;/p&gt;</summary><category term="期末"></category></entry><entry><title>Onshape</title><link href="./onshape.html" rel="alternate"></link><published>2017-01-18T22:22:00+08:00</published><updated>2017-01-18T22:22:00+08:00</updated><author><name>40223130</name></author><id>tag:,2017-01-18:./onshape.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.onshape.com/"&gt;Onshape官方網站&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;零件繪製及組裝練習&lt;/h2&gt;
+
+&lt;p&gt;Aduster_Base&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/199937111" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;p&gt;Aduster&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/199936527" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Base&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/199941437" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Connection&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/199935394" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Cylinder&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/199937111" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Handle&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/199935917" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Hinge&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/199935917" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Piston&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/199935917" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Combination&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/199538323" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Onshape"></category></entry><entry><title>SolveSpace</title><link href="./solvespace.html" rel="alternate"></link><published>2017-01-18T22:22:00+08:00</published><updated>2017-01-18T22:22:00+08:00</updated><author><name>40223130</name></author><id>tag:,2017-01-18:./solvespace.html</id><summary type="html">&lt;h2&gt;SolveSpace 2D&lt;/h2&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/199822497" width="640" height="428" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -17,10 +62,10 @@
 
 &lt;pre&gt;&amp;lt;iframe src="&lt;u&gt;檔案的相對位置&lt;/u&gt;" width="800" height="600"&gt;&amp;lt;/iframe&gt;&lt;/pre&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/194948275" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="SolveSpace"></category></entry><entry><title>2016Fall 電腦輔助設計實習課程總結</title><link href="./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><published>2017-01-13T11:36:00+08:00</published><updated>2017-01-13T11:36:00+08:00</updated><author><name>40223130</name></author><id>tag:,2017-01-13:./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="期末"></category></entry><entry><title>2016Fall onshape零組件繪製</title><link href="./2016fall-onshapeling-zu-jian-hui-zhi.html" rel="alternate"></link><published>2016-12-30T11:36:00+08:00</published><updated>2016-12-30T11:36:00+08:00</updated><author><name>40223130</name></author><id>tag:,2016-12-30:./2016fall-onshapeling-zu-jian-hui-zhi.html</id><summary type="html">&lt;p&gt;利用協同的方式跟組員分工合作&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/194948275" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="SolveSpace"></category></entry><entry><title>2016Fall onshape零組件繪製</title><link href="./2016fall-onshapeling-zu-jian-hui-zhi.html" rel="alternate"></link><published>2016-12-30T11:36:00+08:00</published><updated>2016-12-30T11:36:00+08:00</updated><author><name>40223130</name></author><id>tag:,2016-12-30:./2016fall-onshapeling-zu-jian-hui-zhi.html</id><summary type="html">&lt;p&gt;利用協同的方式跟組員分工合作&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../theme/cadp_w15_fourbar.png" width="600" /&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/f723dfa2e7d650d3c8d16304/w/7ae4d158c2e340b2b1c0e43c/e/e8d9ea50e2cb1fdf85595f27"&gt;Onshape 分組  組合件&lt;/a&gt;&lt;/p&gt;</summary><category term="練習"></category></entry><entry><title>2016Fall w7 四連桿機構模擬</title><link href="./2016fall-w7-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><published>2016-10-27T12:00:00+08:00</published><updated>2016-10-27T12:00:00+08:00</updated><author><name>40223130</name></author><id>tag:,2016-10-27:./2016fall-w7-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;p&gt;已知四連桿各桿尺寸, 當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/f723dfa2e7d650d3c8d16304/w/7ae4d158c2e340b2b1c0e43c/e/e8d9ea50e2cb1fdf85595f27"&gt;Onshape 分組  組合件&lt;/a&gt;&lt;/p&gt;</summary><category term="練習"></category></entry><entry><title>2016Fall 四連桿機構模擬</title><link href="./2016fall-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><published>2016-10-27T12:00:00+08:00</published><updated>2016-10-27T12:00:00+08:00</updated><author><name>40223130</name></author><id>tag:,2016-10-27:./2016fall-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;p&gt;已知四連桿各桿尺寸, 當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../theme/cadp_w7_fourbar.png" width="600" /&gt;
 &lt;/p&gt;
 &lt;p&gt;Solvespace 四連桿圖檔:&lt;/p&gt;
@@ -144,44 +189,4 @@ for i in range(len(result)):
         str(gmember[j])+"&amp;lt;/a&amp;gt; ")
     print("&amp;lt;br /&amp;gt;")
     gno = gno + 1
-&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Onshape</title><link href="./onshape.html" rel="alternate"></link><published>1111-02-22T22:22:00+08:06</published><updated>1111-02-22T22:22:00+08:06</updated><author><name>40423226</name></author><id>tag:,1111-02-22:./onshape.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.onshape.com/"&gt;Onshape官方網站&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2&gt;零件繪製及組裝練習&lt;/h2&gt;
-
-&lt;p&gt;Aduster_Base&lt;/p&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/199937111" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-
-
-&lt;p&gt;Aduster&lt;/p&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/199936527" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Base&lt;/p&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/199941437" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Connection&lt;/p&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/199935394" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Cylinder&lt;/p&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/199937111" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Handle&lt;/p&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/199935917" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Hinge&lt;/p&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/199935917" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Piston&lt;/p&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/199935917" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Combination&lt;/p&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/199538323" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Onshape"></category></entry></feed>
+&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry></feed>
